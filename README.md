@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-First-year CS student at **IEM Kolkata** (2024–2028) with a CGPA of **8.52**, shipping projects across full-stack web, AI/ML, and blockchain — not waiting for the final year to start building.
+2nd-year CS student at **IEM Kolkata** (2024–2028) with a CGPA of **8.52**, shipping projects across full-stack web, AI/ML, and blockchain — not waiting for the final year to start building.
 
 - 🌐 Building with the **MERN stack** — React, Node.js, Express
 - 🤖 Exploring **NLP and ML** with Python, scikit-learn, and TF-IDF
@@ -120,6 +120,6 @@ A decentralized ticket booking app built on the Stellar blockchain — explored 
 
 <div align="center">
 
-*First year. Full stack. Zero excuses.*
+*2nd year. Full stack. Zero excuses.*
 
 </div>
