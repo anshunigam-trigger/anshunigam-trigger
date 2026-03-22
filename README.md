@@ -15,13 +15,14 @@
 
 ## 👋 About Me
 
-2nd-year CS student at **IEM Kolkata** (2024–2028) with a CGPA of **8.52**, shipping projects across full-stack web, AI/ML, and blockchain — not waiting for the final year to start building.
+Computer Science undergraduate at IEM Kolkata (2024–2028) | CGPA 8.52/10
+I build production-grade software across the full stack — from NLP pipelines and real-time communication systems to decentralized applications on blockchain. I focus on writing clean, well-structured code and shipping projects that solve real problems, not just toy examples.
 
-- 🌐 Building with the **MERN stack** — React, Node.js, Express
-- 🤖 Exploring **NLP and ML** with Python, scikit-learn, and TF-IDF
-- ⛓️ Dipping into **Web3** via Stellar Soroban smart contracts
-- 🧩 Active DSA grinder — strong with arrays, trees, graphs, DP
-- 🏆 Top 10 at a college hackathon | Stellar Blockchain Bootcamp graduate
+💻 Full-Stack Development — end-to-end MERN applications with real users and real features
+🤖 AI/ML Engineering — NLP systems with measurable accuracy and efficiency gains (~85% accuracy, ~40% efficiency improvement)
+⛓️ Blockchain & Web3 — smart contract development on Stellar Soroban, testnet deployment
+🧩 Strong DSA foundation — consistent problem solver across arrays, trees, graphs, and dynamic programming
+🏆 Top 10 at a college hackathon | Certified in Full-Stack Dev & Data Science
 
 ---
 
