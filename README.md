@@ -16,7 +16,8 @@
 ## 👋 About Me
 
 Computer Science undergraduate at IEM Kolkata (2024–2028) | CGPA 8.52/10
-I build production-grade software across the full stack — from NLP pipelines and real-time communication systems to decentralized applications on blockchain. I focus on writing clean, well-structured code and shipping projects that solve real problems, not just toy examples.
+
+I build production-grade software across the full stack from NLP pipelines and real-time communication systems to decentralized applications on blockchain. I focus on writing clean, well-structured code and shipping projects that solve real problems, not just toy examples.
 
 💻 Full-Stack Development — end-to-end MERN applications with real users and real features
 
